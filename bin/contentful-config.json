@@ -241,7 +241,7 @@
         },
         {
           "id": "aboutMe",
-          "name": "About me",
+          "name": "About us",
           "type": "Text",
           "localized": false,
           "required": false,

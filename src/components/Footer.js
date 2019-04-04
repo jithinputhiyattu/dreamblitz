@@ -54,7 +54,7 @@ const Footer = () => (
             display: 'table',
           }}
         >
-          Powered By
+          Designed and developed by
         </Text>
       </span>
       <Flex justifyContent="center" alignItems="center">
