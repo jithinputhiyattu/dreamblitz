@@ -49,12 +49,12 @@ const Footer = () => (
           mb={2}
           pb={1}
           style={{
-            textTransform: 'uppercase',
-            borderBottom: 'white 3px solid',
+            textTransform: '',
+            borderBottom: 'white 3px',
             display: 'table',
           }}
         >
-          Designed and developed by
+          Designed and developed by dreamBlitz
         </Text>
       </span>
       <Flex justifyContent="center" alignItems="center">
